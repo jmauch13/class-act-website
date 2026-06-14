@@ -1718,3 +1718,9 @@ h1 {
     text-align: left;
   }
 }
+
+.footer-social a span {
+  font-family: Arial, sans-serif;
+  font-weight: 800;
+  font-size: 1.4rem;
+}

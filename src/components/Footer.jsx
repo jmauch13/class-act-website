@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { FaFacebookF } from "react-icons/fa";
 
 function Footer() {
   return (
@@ -31,7 +30,7 @@ function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaFacebookF />
+            <span>f</span>
           </a>
         </div>
       </div>
